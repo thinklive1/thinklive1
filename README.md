@@ -1,7 +1,7 @@
 ### dirichilet in github
 
 [![thinklive's GitHub stats](https://github-readme-stats.vercel.app/api?username=thinklive1&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thinklive1)](https://github.com/anuraghazra/github-readme-stats)
 
 - working at 408
 - vim is the best edit mode
