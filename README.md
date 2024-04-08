@@ -6,6 +6,9 @@
 - working at 408
 - vim is the best edit mode
 
+### my blog
+https://thinklive1.github.io/
+
 ### Contact Me
 
 Email: t469631989@gmail.com
